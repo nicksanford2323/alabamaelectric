@@ -1,1 +1,123 @@
-
+{
+    "ChIJVVVVVUEZiYgRhxeLRHfcKfY": {
+        "business_name": "Blessed Electric Co Inc",
+        "corporate_details": {
+            "year_founded": null,
+            "business_structure": "Single Location",
+            "legal_registration_number": null,
+            "incorporated_date": null
+        },
+        "ownership": {
+            "owner_name": "Mr. Buster Masters",
+            "license_number": null
+        },
+        "operations": {
+            "headquarters": "Birmingham, AL 35209",
+            "service_areas": [
+                "Birmingham, AL",
+                "Surrounding areas"
+            ],
+            "operating_hours": {
+                "weekdays": null,
+                "weekend": null
+            },
+            "emergency_services": null
+        },
+        "credentials": {
+            "licenses": [],
+            "insurance_verified": null,
+            "certifications": [],
+            "bbb_accreditation": {
+                "status": false,
+                "rating": "A+"
+            }
+        },
+        "services": {
+            "residential": [
+                "Home Charger Installation",
+                "General Electrical Services"
+            ],
+            "commercial": [
+                "Commercial EV Charger Solutions",
+                "General Electrical Services"
+            ],
+            "specializations": [
+                "Electric Vehicle (EV) Charger Installation"
+            ]
+        },
+        "online_presence": {
+            "website": null,
+            "rating": [
+                {
+                    "platform": "Google",
+                    "score": 5.0,
+                    "review_count": 2
+                }
+            ],
+            "social_media": []
+        },
+        "financial": {
+            "payment_options": [],
+            "financing_partners": []
+        }
+    },
+    "ChIJUXOyCyAliYgReiYZQGnY6Qg": {
+        "business_name": "Champion Electric LLC",
+        "corporate_details": {
+            "year_founded": 2003,
+            "business_structure": "Limited Liability Company (LLC)",
+            "legal_registration_number": null,
+            "incorporated_date": "July 18, 2003"
+        },
+        "ownership": {
+            "owner_name": "Mr. Brian Woodall",
+            "license_number": null
+        },
+        "operations": {
+            "headquarters": "121 Clark St, Pelham, AL 35124",
+            "service_areas": [
+                "Pelham",
+                "Central Alabama"
+            ],
+            "operating_hours": {
+                "weekdays": "8AM-8PM",
+                "weekend": "8AM-8PM on Saturday, Closed on Sunday"
+            },
+            "emergency_services": null
+        },
+        "credentials": {
+            "licenses": [],
+            "insurance_verified": null,
+            "certifications": [],
+            "bbb_accreditation": {
+                "status": false,
+                "rating": "A+"
+            }
+        },
+        "services": {
+            "residential": [
+                "Electrical Wiring",
+                "New Constructions"
+            ],
+            "commercial": [],
+            "specializations": [
+                "Electrical Contractors"
+            ]
+        },
+        "online_presence": {
+            "website": null,
+            "rating": [
+                {
+                    "platform": "Google",
+                    "score": 5.0,
+                    "review_count": 3
+                }
+            ],
+            "social_media": []
+        },
+        "financial": {
+            "payment_options": [],
+            "financing_partners": []
+        }
+    }
+}
