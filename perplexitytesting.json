@@ -12,11 +12,12 @@
             "license_number": "06466"
         },
         "operations": {
-            "headquarters": "216 Business Center Dr, Birmingham, AL 35244-2020",
+            "headquarters": "216 Business Center Dr, Birmingham, AL 35244",
             "service_areas": [
                 "Birmingham",
                 "Jefferson County",
-                "Shelby County"
+                "Shelby County",
+                "surrounding areas"
             ],
             "operating_hours": {
                 "weekdays": "Open 24 hours",
@@ -29,7 +30,9 @@
                 "Alabama Electrical Contractors Board"
             ],
             "insurance_verified": null,
-            "certifications": [],
+            "certifications": [
+                "Master Electrician"
+            ],
             "bbb_accreditation": {
                 "status": true,
                 "rating": "A+"
@@ -41,21 +44,22 @@
                 "lighting",
                 "safety upgrades",
                 "rewiring houses",
-                "replacing electrical services and equipment"
+                "whole-home generator installation"
             ],
             "commercial": [
                 "electrical repairs",
                 "lighting",
                 "safety upgrades",
-                "replacing electrical services and equipment"
+                "rewiring commercial properties",
+                "electrical equipment installation"
             ],
             "specializations": [
-                "whole-home generators",
-                "electrical installations testing"
+                "Generator Repair",
+                "Electrical Panel Upgrades"
             ]
         },
         "online_presence": {
-            "website": "https://rtrelectricllc.com",
+            "website": "https://rtrelectricllc.com/",
             "rating": [
                 {
                     "platform": "Google",
@@ -73,14 +77,14 @@
     "ChIJg4TsqA0XiYgRAzZMSAsQk-g": {
         "business_name": "Power Up Lighting & Electrical, LLC",
         "corporate_details": {
-            "year_founded": 1993,
-            "business_structure": "Limited Liability Company (LLC)",
+            "year_founded": null,
+            "business_structure": "LLC",
             "legal_registration_number": null,
-            "incorporated_date": "December 18, 2012"
+            "incorporated_date": null
         },
         "ownership": {
-            "owner_name": "Mr. Darryl Guarino",
-            "license_number": "03533"
+            "owner_name": "Darryl Guarino",
+            "license_number": null
         },
         "operations": {
             "headquarters": "Birmingham, AL",
@@ -98,15 +102,15 @@
         },
         "credentials": {
             "licenses": [
-                "Alabama Electrical Contractors Board"
+                "Licensed and Certified Electricians"
             ],
             "insurance_verified": null,
             "certifications": [
-                "Licensed and Certified Electricians"
+                "Certified Electricians"
             ],
             "bbb_accreditation": {
-                "status": false,
-                "rating": "A+"
+                "status": null,
+                "rating": null
             }
         },
         "services": {
@@ -132,7 +136,7 @@
             ]
         },
         "online_presence": {
-            "website": "https://poweruplightingandelectricalllc.com",
+            "website": "https://poweruplightingandelectricalllc.com/",
             "rating": [
                 {
                     "platform": "Google",
@@ -146,210 +150,6 @@
             "payment_options": [
                 "Competitive rates and flexible payment options"
             ],
-            "financing_partners": []
-        }
-    },
-    "ChIJfY1sQnQciYgRmfCD5GckoBA": {
-        "business_name": "Dr. Electric",
-        "corporate_details": {
-            "year_founded": 2004,
-            "business_structure": "Limited Liability Company (LLC)",
-            "legal_registration_number": null,
-            "incorporated_date": "February 19, 2008"
-        },
-        "ownership": {
-            "owner_name": "Mr. Nathan Lindley",
-            "license_number": null
-        },
-        "operations": {
-            "headquarters": "908 13th St N STE E, Birmingham, AL 35203-1625",
-            "service_areas": [
-                "Alabama",
-                "Walker County"
-            ],
-            "operating_hours": {
-                "weekdays": "Open 24 hours",
-                "weekend": "Open 24 hours"
-            },
-            "emergency_services": true
-        },
-        "credentials": {
-            "licenses": [],
-            "insurance_verified": null,
-            "certifications": [],
-            "bbb_accreditation": {
-                "status": true,
-                "rating": "A+"
-            }
-        },
-        "services": {
-            "residential": [
-                "Electrical Repairs",
-                "Safety Inspections",
-                "Lighting Installations",
-                "Lighting Upgrades"
-            ],
-            "commercial": [
-                "Electrical Repairs",
-                "Safety Inspections",
-                "Lighting Installations",
-                "Lighting Upgrades",
-                "Generator Maintenance",
-                "Generator Repair",
-                "Electrical Power Systems Maintenance"
-            ],
-            "specializations": [
-                "Electrical Wiring",
-                "Landscape Lighting",
-                "Commercial Electrician",
-                "Lighting Consultant",
-                "Electrical Power System Backup Systems",
-                "Electric Vehicle Charging Stations"
-            ]
-        },
-        "online_presence": {
-            "website": "https://www.doctorelectricnow.com",
-            "rating": [
-                {
-                    "platform": "Google",
-                    "score": 4.8,
-                    "review_count": 24.0
-                }
-            ],
-            "social_media": []
-        },
-        "financial": {
-            "payment_options": [],
-            "financing_partners": []
-        }
-    },
-    "ChIJd6x8OQPVc0kR7aTRkcXXWCo": {
-        "business_name": "Davenport's Electrical Services",
-        "corporate_details": {
-            "year_founded": null,
-            "business_structure": "Family-owned",
-            "legal_registration_number": null,
-            "incorporated_date": null
-        },
-        "ownership": {
-            "owner_name": null,
-            "license_number": null
-        },
-        "operations": {
-            "headquarters": "Chelsea, AL",
-            "service_areas": [
-                "Hoover",
-                "Chelsea"
-            ],
-            "operating_hours": {
-                "weekdays": null,
-                "weekend": null
-            },
-            "emergency_services": true
-        },
-        "credentials": {
-            "licenses": [
-                "Licensed and Insured"
-            ],
-            "insurance_verified": true,
-            "certifications": [],
-            "bbb_accreditation": {
-                "status": false,
-                "rating": null
-            }
-        },
-        "services": {
-            "residential": [
-                "Lighting fixtures installation",
-                "Outlet replacement"
-            ],
-            "commercial": [
-                "Electrical repairs",
-                "Troubleshooting"
-            ],
-            "specializations": [
-                "24/7 Emergency Services"
-            ]
-        },
-        "online_presence": {
-            "website": "https://www.davenportselectric.com",
-            "rating": [
-                {
-                    "platform": "Google",
-                    "score": 5.0,
-                    "review_count": 11
-                }
-            ],
-            "social_media": []
-        },
-        "financial": {
-            "payment_options": [],
-            "financing_partners": []
-        }
-    },
-    "ChIJlZPS3-gOiYgRutKJjUFL5Ic": {
-        "business_name": "KingFred Companies, LLC",
-        "corporate_details": {
-            "year_founded": 2010,
-            "business_structure": "LLC",
-            "legal_registration_number": null,
-            "incorporated_date": "October 1, 2010"
-        },
-        "ownership": {
-            "owner_name": "Mr. Fred King",
-            "license_number": "05866"
-        },
-        "operations": {
-            "headquarters": "6 Office Park Cir, Mountain Brook, AL 35223",
-            "service_areas": [
-                "Mountain Brook",
-                "Alabama"
-            ],
-            "operating_hours": {
-                "weekdays": "Monday to Friday: 9AM-5:30PM",
-                "weekend": "Saturday and Sunday: Closed"
-            },
-            "emergency_services": null
-        },
-        "credentials": {
-            "licenses": [
-                "Alabama Electrical Contractors Board"
-            ],
-            "insurance_verified": null,
-            "certifications": [],
-            "bbb_accreditation": {
-                "status": false,
-                "rating": "A+"
-            }
-        },
-        "services": {
-            "residential": [
-                "Electrical Services",
-                "Home Improvement",
-                "Remodeling"
-            ],
-            "commercial": [
-                "Electrical Services",
-                "Commercial Electrician"
-            ],
-            "specializations": [
-                "Electrical Wiring",
-                "Electrical Power Systems Maintenance"
-            ]
-        },
-        "online_presence": {
-            "website": null,
-            "rating": [
-                {
-                    "platform": "Google",
-                    "score": 4.8,
-                    "review_count": 77
-                }
-            ],
-            "social_media": []
-        },
-        "financial": {
-            "payment_options": [],
             "financing_partners": []
         }
     }
