@@ -2,61 +2,81 @@
   "ChIJDZu_K2KnZGYRfkpBZ9rEapE": {
     "name": "RTR Electric, LLC",
     "site": "https://rtrelectricllc.com/",
-    "screenshot_url": null,
-    "claude_result": null
+    "top_screenshot": null,
+    "bottom_screenshot": null,
+    "claude_result": null,
+    "error": "Failed top screenshot"
   },
   "ChIJg4TsqA0XiYgRAzZMSAsQk-g": {
     "name": "Power Up Lighting & Electrical, LLC",
     "site": "https://poweruplightingandelectricalllc.com/",
-    "screenshot_url": null,
-    "claude_result": null
+    "top_screenshot": null,
+    "bottom_screenshot": null,
+    "claude_result": null,
+    "error": "Failed top screenshot"
   },
   "ChIJfY1sQnQciYgRmfCD5GckoBA": {
     "name": "Dr. Electric",
     "site": "https://www.doctorelectricnow.com/",
-    "screenshot_url": null,
-    "claude_result": null
+    "top_screenshot": null,
+    "bottom_screenshot": null,
+    "claude_result": null,
+    "error": "Failed top screenshot"
   },
   "ChIJd6x8OQPVc0kR7aTRkcXXWCo": {
     "name": "Davenport's Electrical Services",
     "site": "https://www.davenportselectric.com/",
-    "screenshot_url": null,
-    "claude_result": null
+    "top_screenshot": null,
+    "bottom_screenshot": null,
+    "claude_result": null,
+    "error": "Failed top screenshot"
   },
   "ChIJMSJUOJ0eVIQRoeKmfPX2Xhs": {
     "name": "Stellar Electrical Services",
     "site": "https://www.facebook.com/profile.php?id=61556180291609",
-    "screenshot_url": null,
-    "claude_result": null
+    "top_screenshot": null,
+    "bottom_screenshot": null,
+    "claude_result": null,
+    "error": "Failed top screenshot"
   },
   "ChIJlZPS3-gOiYgRutKJjUFL5Ic": {
     "name": "KingFred",
     "site": "https://kingfredco.com/",
-    "screenshot_url": null,
-    "claude_result": null
+    "top_screenshot": null,
+    "bottom_screenshot": null,
+    "claude_result": null,
+    "error": "Failed top screenshot"
   },
   "ChIJTbeSqf8XiYgR-aKiSt_iRs8": {
     "name": "Rockett Electric LLC",
     "site": "http://www.rockettelectric.com/",
-    "screenshot_url": null,
-    "claude_result": null
+    "top_screenshot": null,
+    "bottom_screenshot": null,
+    "claude_result": null,
+    "error": "Failed top screenshot"
   },
   "ChIJQzOF1q8jiYgRqvZ630-XJak": {
     "name": "Advanced Electrical Company",
     "site": "https://www.advancedelectricalcompany.com/",
-    "screenshot_url": null,
-    "claude_result": null
+    "top_screenshot": null,
+    "bottom_screenshot": null,
+    "claude_result": null,
+    "error": "Failed top screenshot"
   },
   "ChIJ47s0jE0aiYgRhPof9ZeTaI0": {
     "name": "ELI Services",
     "site": "https://eliservices.org/?utm_source=gmb",
-    "screenshot_url": null,
-    "claude_result": null
+    "top_screenshot": null,
+    "bottom_screenshot": null,
+    "claude_result": null,
+    "error": "Failed top screenshot"
   },
   "ChIJvc11PUgViYgRQem_tcEnsLg": {
     "name": "RUSSELL Electric",
     "site": "https://russellelectric.co/",
-    "screenshot_url": null,
-    "claude_result": null
+    "top_screenshot": null,
+    "bottom_screenshot": null,
+    "claude_result": null,
+    "error": "Failed top screenshot"
   }
 }
