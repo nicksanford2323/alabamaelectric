@@ -16,8 +16,7 @@
             "service_areas": [
                 "Birmingham",
                 "Jefferson County",
-                "Shelby County",
-                "surrounding areas"
+                "Shelby County"
             ],
             "operating_hours": {
                 "weekdays": "Open 24 hours",
@@ -40,26 +39,25 @@
         },
         "services": {
             "residential": [
-                "electrical repairs",
-                "lighting",
-                "safety upgrades",
-                "rewiring houses",
-                "whole-home generator installation"
+                "Electrical Repairs",
+                "Lighting",
+                "Safety Upgrades",
+                "Whole-Home Generators"
             ],
             "commercial": [
-                "electrical repairs",
-                "lighting",
-                "safety upgrades",
-                "rewiring commercial properties",
-                "electrical equipment installation"
+                "Electrical Repairs",
+                "Lighting",
+                "Safety Upgrades",
+                "Generator Installation"
             ],
             "specializations": [
-                "Generator Repair",
-                "Electrical Panel Upgrades"
+                "Rewiring Houses",
+                "Electrical Service Replacement",
+                "Lightning Strike Testing"
             ]
         },
         "online_presence": {
-            "website": "https://rtrelectricllc.com/",
+            "website": "https://rtrelectricllc.com",
             "rating": [
                 {
                     "platform": "Google",
@@ -77,14 +75,14 @@
     "ChIJg4TsqA0XiYgRAzZMSAsQk-g": {
         "business_name": "Power Up Lighting & Electrical, LLC",
         "corporate_details": {
-            "year_founded": null,
-            "business_structure": "LLC",
+            "year_founded": 1993,
+            "business_structure": "Limited Liability Company (LLC)",
             "legal_registration_number": null,
-            "incorporated_date": null
+            "incorporated_date": "December 18, 2012"
         },
         "ownership": {
-            "owner_name": "Darryl Guarino",
-            "license_number": null
+            "owner_name": "Mr. Darryl Guarino",
+            "license_number": "03533"
         },
         "operations": {
             "headquarters": "Birmingham, AL",
@@ -95,22 +93,22 @@
                 "Huntsville"
             ],
             "operating_hours": {
-                "weekdays": "9AM-5PM",
-                "weekend": "Closed"
+                "weekdays": "Monday to Friday: 9AM-5PM",
+                "weekend": "Saturday and Sunday: Closed"
             },
             "emergency_services": true
         },
         "credentials": {
             "licenses": [
-                "Licensed and Certified Electricians"
+                "Alabama Electrical Contractors Board"
             ],
             "insurance_verified": null,
             "certifications": [
-                "Certified Electricians"
+                "Licensed and Certified Electricians"
             ],
             "bbb_accreditation": {
-                "status": null,
-                "rating": null
+                "status": false,
+                "rating": "A+"
             }
         },
         "services": {
@@ -136,7 +134,7 @@
             ]
         },
         "online_presence": {
-            "website": "https://poweruplightingandelectricalllc.com/",
+            "website": "https://poweruplightingandelectricalllc.com",
             "rating": [
                 {
                     "platform": "Google",
@@ -151,6 +149,217 @@
                 "Competitive rates and flexible payment options"
             ],
             "financing_partners": []
+        }
+    },
+    "ChIJfY1sQnQciYgRmfCD5GckoBA": {
+        "business_name": "Dr. Electric",
+        "corporate_details": {
+            "year_founded": 2004,
+            "business_structure": "Limited Liability Company (LLC)",
+            "legal_registration_number": null,
+            "incorporated_date": "February 19, 2008"
+        },
+        "ownership": {
+            "owner_name": "Mr. Nathan Lindley",
+            "license_number": null
+        },
+        "operations": {
+            "headquarters": "Birmingham, AL",
+            "service_areas": [
+                "Birmingham",
+                "Central & South Alabama"
+            ],
+            "operating_hours": {
+                "weekdays": "Open 24 hours",
+                "weekend": "Open 24 hours"
+            },
+            "emergency_services": true
+        },
+        "credentials": {
+            "licenses": [],
+            "insurance_verified": null,
+            "certifications": [],
+            "bbb_accreditation": {
+                "status": true,
+                "rating": "A+"
+            }
+        },
+        "services": {
+            "residential": [
+                "Electrical Repairs",
+                "Safety Inspections",
+                "Lighting Installations",
+                "Generator Maintenance",
+                "Generator Repair"
+            ],
+            "commercial": [
+                "Electrical Repairs",
+                "Lighting Installations",
+                "Generator Maintenance",
+                "Generator Repair",
+                "Electrical Power Systems Maintenance"
+            ],
+            "specializations": [
+                "Landscape Lighting",
+                "Electric Vehicle Charging Stations",
+                "Lighting Consultant",
+                "Electrical Power System Backup Systems"
+            ]
+        },
+        "online_presence": {
+            "website": "https://www.doctorelectricnow.com",
+            "rating": [
+                {
+                    "platform": "Google",
+                    "score": 4.8,
+                    "review_count": 24.0
+                }
+            ],
+            "social_media": []
+        },
+        "financial": {
+            "payment_options": [],
+            "financing_partners": []
+        }
+    },
+    "ChIJd6x8OQPVc0kR7aTRkcXXWCo": {
+        "business_name": "Davenport's Electrical Services",
+        "corporate_details": {
+            "year_founded": null,
+            "business_structure": "Family-owned",
+            "legal_registration_number": null,
+            "incorporated_date": null
+        },
+        "ownership": {
+            "owner_name": null,
+            "license_number": null
+        },
+        "operations": {
+            "headquarters": "Chelsea, AL",
+            "service_areas": [
+                "Hoover",
+                "Chelsea",
+                "Shelby"
+            ],
+            "operating_hours": {
+                "weekdays": null,
+                "weekend": null
+            },
+            "emergency_services": true
+        },
+        "credentials": {
+            "licenses": [
+                "Completely licensed"
+            ],
+            "insurance_verified": true,
+            "certifications": [],
+            "bbb_accreditation": {
+                "status": null,
+                "rating": null
+            }
+        },
+        "services": {
+            "residential": [
+                "Lighting fixtures installation",
+                "Outlet replacement",
+                "Electrical repair"
+            ],
+            "commercial": [
+                "Electrical repair",
+                "Installation services"
+            ],
+            "specializations": [
+                "24/7 Emergency Services"
+            ]
+        },
+        "online_presence": {
+            "website": "https://www.davenportselectric.com",
+            "rating": [
+                {
+                    "platform": "Google",
+                    "score": 5.0,
+                    "review_count": 11
+                }
+            ],
+            "social_media": []
+        },
+        "financial": {
+            "payment_options": [],
+            "financing_partners": []
+        }
+    },
+    "ChIJlZPS3-gOiYgRutKJjUFL5Ic": {
+        "business_name": "KingFred Companies, LLC",
+        "corporate_details": {
+            "year_founded": 2010,
+            "business_structure": "Limited Liability Company (LLC)",
+            "legal_registration_number": null,
+            "incorporated_date": "October 1, 2010"
+        },
+        "ownership": {
+            "owner_name": "Mr. Fred King",
+            "license_number": "05866"
+        },
+        "operations": {
+            "headquarters": "6 Office Park Cir STE 215, Mountain Brk, AL 35223-2541",
+            "service_areas": [
+                "Mountain Brook",
+                "Birmingham",
+                "Central Alabama"
+            ],
+            "operating_hours": {
+                "weekdays": "Monday to Friday: 9AM-5:30PM",
+                "weekend": "Saturday and Sunday: Closed"
+            },
+            "emergency_services": null
+        },
+        "credentials": {
+            "licenses": [
+                "Alabama Electrical Contractors Board"
+            ],
+            "insurance_verified": null,
+            "certifications": [
+                "Certified Generac Powercell Installers",
+                "Electric Vehicle Charging Station Installation"
+            ],
+            "bbb_accreditation": {
+                "status": false,
+                "rating": "A+"
+            }
+        },
+        "services": {
+            "residential": [
+                "Electrical Wiring",
+                "Home Maintenance",
+                "Smart Home Installations"
+            ],
+            "commercial": [
+                "Commercial Electrician",
+                "Electrical Power Systems Maintenance"
+            ],
+            "specializations": [
+                "New Construction",
+                "Industrial Electrical Work",
+                "Home Remodeling"
+            ]
+        },
+        "online_presence": {
+            "website": "https://kingfredco.com",
+            "rating": [
+                {
+                    "platform": "Google",
+                    "score": 4.8,
+                    "review_count": 77
+                }
+            ],
+            "social_media": []
+        },
+        "financial": {
+            "payment_options": [],
+            "financing_partners": [
+                "Alabama Power (SMART Financing)",
+                "Acorn"
+            ]
         }
     }
 }
