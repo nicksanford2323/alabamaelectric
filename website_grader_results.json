@@ -2,81 +2,71 @@
   "ChIJDZu_K2KnZGYRfkpBZ9rEapE": {
     "name": "RTR Electric, LLC",
     "site": "https://rtrelectricllc.com/",
-    "top_screenshot": null,
-    "bottom_screenshot": null,
+    "screenshot_url": null,
     "claude_result": null,
-    "error": "Failed top screenshot"
+    "error": "Apify screenshot failed"
   },
   "ChIJg4TsqA0XiYgRAzZMSAsQk-g": {
     "name": "Power Up Lighting & Electrical, LLC",
     "site": "https://poweruplightingandelectricalllc.com/",
-    "top_screenshot": null,
-    "bottom_screenshot": null,
+    "screenshot_url": null,
     "claude_result": null,
-    "error": "Failed top screenshot"
+    "error": "Apify screenshot failed"
   },
   "ChIJfY1sQnQciYgRmfCD5GckoBA": {
     "name": "Dr. Electric",
     "site": "https://www.doctorelectricnow.com/",
-    "top_screenshot": null,
-    "bottom_screenshot": null,
+    "screenshot_url": null,
     "claude_result": null,
-    "error": "Failed top screenshot"
+    "error": "Apify screenshot failed"
   },
   "ChIJd6x8OQPVc0kR7aTRkcXXWCo": {
     "name": "Davenport's Electrical Services",
     "site": "https://www.davenportselectric.com/",
-    "top_screenshot": null,
-    "bottom_screenshot": null,
+    "screenshot_url": null,
     "claude_result": null,
-    "error": "Failed top screenshot"
+    "error": "Apify screenshot failed"
   },
   "ChIJMSJUOJ0eVIQRoeKmfPX2Xhs": {
     "name": "Stellar Electrical Services",
     "site": "https://www.facebook.com/profile.php?id=61556180291609",
-    "top_screenshot": null,
-    "bottom_screenshot": null,
+    "screenshot_url": null,
     "claude_result": null,
-    "error": "Failed top screenshot"
+    "error": "Apify screenshot failed"
   },
   "ChIJlZPS3-gOiYgRutKJjUFL5Ic": {
     "name": "KingFred",
     "site": "https://kingfredco.com/",
-    "top_screenshot": null,
-    "bottom_screenshot": null,
+    "screenshot_url": null,
     "claude_result": null,
-    "error": "Failed top screenshot"
+    "error": "Apify screenshot failed"
   },
   "ChIJTbeSqf8XiYgR-aKiSt_iRs8": {
     "name": "Rockett Electric LLC",
     "site": "http://www.rockettelectric.com/",
-    "top_screenshot": null,
-    "bottom_screenshot": null,
+    "screenshot_url": null,
     "claude_result": null,
-    "error": "Failed top screenshot"
+    "error": "Apify screenshot failed"
   },
   "ChIJQzOF1q8jiYgRqvZ630-XJak": {
     "name": "Advanced Electrical Company",
     "site": "https://www.advancedelectricalcompany.com/",
-    "top_screenshot": null,
-    "bottom_screenshot": null,
+    "screenshot_url": null,
     "claude_result": null,
-    "error": "Failed top screenshot"
+    "error": "Apify screenshot failed"
   },
   "ChIJ47s0jE0aiYgRhPof9ZeTaI0": {
     "name": "ELI Services",
     "site": "https://eliservices.org/?utm_source=gmb",
-    "top_screenshot": null,
-    "bottom_screenshot": null,
+    "screenshot_url": null,
     "claude_result": null,
-    "error": "Failed top screenshot"
+    "error": "Apify screenshot failed"
   },
   "ChIJvc11PUgViYgRQem_tcEnsLg": {
     "name": "RUSSELL Electric",
     "site": "https://russellelectric.co/",
-    "top_screenshot": null,
-    "bottom_screenshot": null,
+    "screenshot_url": null,
     "claude_result": null,
-    "error": "Failed top screenshot"
+    "error": "Apify screenshot failed"
   }
 }
